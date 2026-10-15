@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.*
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+*.log
+logs/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+*.log
+logs/
