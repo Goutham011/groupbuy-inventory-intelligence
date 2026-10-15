@@ -3,7 +3,7 @@
 
 **Smart inventory & demand forecasting system for e-commerce — built to catch stockouts before they happen and free up cash trapped in slow-moving stock.**
 
-🌐 **Live demo:** https://groupbuy-inventory-intelligence.streamlit.app/ · Built by Goutham sai Goparaju
+🌐 **Live demo:** https://groupbuy-inventory-intelligence-hhqsieuknhzyxebytgysai.streamlit.app/ · Built by Goutham sai Goparaju
 
 
 
